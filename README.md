@@ -1,0 +1,2 @@
+# NewConsoleCalc
+Simple console calculator.
